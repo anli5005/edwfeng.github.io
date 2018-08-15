@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+title: edspe
+author: Edward
+description: GenericSiteDescription
+timezone: America/New_York
+github:
+  is_project_page: false
+plugins:
+  - jekyll-sitemap

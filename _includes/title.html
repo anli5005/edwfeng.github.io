@@ -1,0 +1,18 @@
+<h2>
+    {% if page.type == "main" %} {{ site.title }}
+    {% else %} {{ page.title }}
+    {% endif %}
+</h2>
+<h3>
+    {% if page.type == "main" %} {{ page.description }}
+    {% else %} {{ page.date }}
+    {% endif %}
+</h3>
+<p><strong>
+    {% if page.type == "notes" %} {{ page.category }}/{{ page.tags }}
+    {% endif %}
+</strong></p>
+<script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<hr>
