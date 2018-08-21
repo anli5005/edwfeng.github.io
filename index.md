@@ -11,4 +11,3 @@ This is my Github Pages thing. I will be sure to update this sometimes as I lear
 
 Links to things:
 * [Notes](/notes): I'm a student
-* [Other files](https://bit.ly/2L7RaAH): Things (undergoing testing)

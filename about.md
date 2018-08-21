@@ -2,16 +2,14 @@
 title: About Page
 description: GenericAboutPage
 type: main
-permalink: /about/
+permalink: /about
 ---
 {% include title.html %}
 
-My name is Edward Feng, and I am a high schooler in the good ol' U.S. of A.
+My name is Edward Feng, and I am a high schooler in the U.S.A.
 
-I mainly use Github and Github Pages as a way to store/manage/access my notes. I use Atom, alongside the MPE plugin writing in markdown.
+I use Github Pages to store/view my notes.
 
-I go to BCA, as a CompSci student, so I hope to learn more, especially about computers, and will (hopefully) be able to edit this site more to my liking.
+I am currently using Atom to type and things, with several other pluguins/extra utilities.
 
-I think that's all, for now.
-
-Other account: @CtrlAltDel123
+Yay.
