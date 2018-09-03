@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300');
+body{
+    background-color: #f2f2df;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+span{
+    background-color: #e0e0c0;
+}
+p{
+    font-size: 15px;
+}
+li{
+    font-size: 15px;
+}
+h6{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+hr{
+    width: 100%;
+}
+a:link{ color: black; }
+a:visited{ color: black; }
+a:hover{ color: brown; }
+a:active{ color: red; }
+
+/* Required for three columns:*/
+.tricolmain{ clear: both; }
+[class*="tricol-"]{ width: 95%; }
+@media only screen and (min-width: 768px) {
+    .tricol-l{ float: left; width: 33%; }
+    .tricol-r{ float: right; width: 33%; }
+    .tricol-c{ display: inline-block; width: 33%; }
+}

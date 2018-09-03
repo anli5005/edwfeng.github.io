@@ -1,3 +1,3 @@
-Repo for Github pages.
+This is a repository for Github pages.
 
-I really do not see what else to add.
+Feel free to [explore!](https://edwfeng.github.io)
