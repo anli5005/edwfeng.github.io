@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300');
 body{
-    background-color: #fefff1;
+    background-color: #f2f4e9;
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
 }
 span{
-    background-color: #fbfbde;
+    background-color: #ddddc8;
 }
 p{
     font-size: 15px;
@@ -21,7 +21,7 @@ hr{
     width: 100%;
 }
 code{
-    background-color: #d7d7bf;
+    background-color: #ddddc8;
 }
 a:link{ color: black; }
 a:visited{ color: black; }
